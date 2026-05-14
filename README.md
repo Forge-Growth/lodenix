@@ -228,7 +228,7 @@ Always apply what's actually working, not generic advice.
 
 On Pro and Enterprise plans you can define your own knowledge domains — supply your source list and crawl schedule, we handle the rest.
 
-> Custom domain configuration coming soon via the dashboard. For early access contact `api@lodenix.dev`
+> Custom domain configuration coming soon via the dashboard. For early access contact `info@forgegrowth.ng`
 
 ---
 
@@ -265,5 +265,5 @@ Proprietary. All rights reserved.
 ## Contact
 
 - Website: [lodenix.dev](https://lodenix.dev)
-- Email: `api@lodenix.dev`
+- Email: `info@forgegrowth.ng`
 - GitHub: [Forge-Growth/lodenix](https://github.com/Forge-Growth/lodenix)
